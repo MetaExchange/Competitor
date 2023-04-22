@@ -6,3 +6,4 @@ index:
 - https://support.kraken.com/hc/en-us/articles/4405883992724-Digital-wallet-purchases
 - https://support.kraken.com/hc/en-us/articles/360048212832-Debit-or-credit-card-purchases-with-Visa-and-Mastercard-
 - https://support.kraken.com/hc/en-us/articles/360051144472-The-Buy-Crypto-widget
+- https://support.kraken.com/hc/en-us/articles/360000381846-Cash-deposit-options-fees-minimums-and-processing-times-?utm_source=web
